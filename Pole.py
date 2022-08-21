@@ -1,7 +1,7 @@
 from Assistant import Engine
 from DorchLib import *
 
-macroName = "Pole"
+macroName = "Polex"
 memName = "Pamet"
 
 def Main():
